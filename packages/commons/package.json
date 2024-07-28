@@ -32,7 +32,7 @@
   },
   "funding": "https://mockoon.com/sponsor-us/",
   "dependencies": {
-    "joi": "17.13.0"
+    "joi": "17.13.1"
   },
   "devDependencies": {
     "@types/mocha": "10.0.6",
