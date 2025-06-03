@@ -65,7 +65,7 @@
     "winston": "3.13.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "17.3.6",
+    "@angular-devkit/build-angular": "20.0.0",
     "@angular-eslint/builder": "17.3.0",
     "@angular-eslint/eslint-plugin": "17.3.0",
     "@angular-eslint/eslint-plugin-template": "17.3.0",
@@ -79,7 +79,7 @@
     "@angular/core": "17.3.6",
     "@angular/fire": "17.0.1",
     "@angular/forms": "17.3.6",
-    "@angular/localize": "17.3.6",
+    "@angular/localize": "20.0.0",
     "@angular/platform-browser": "17.3.6",
     "@angular/platform-browser-dynamic": "17.3.6",
     "@ng-bootstrap/ng-bootstrap": "16.0.0",
@@ -91,8 +91,8 @@
     "@types/semver": "7.5.8",
     "@typescript-eslint/eslint-plugin": "7.7.1",
     "@typescript-eslint/parser": "7.7.1",
-    "@wdio/cli": "8.36.1",
-    "@wdio/local-runner": "8.36.1",
+    "@wdio/cli": "9.0.0",
+    "@wdio/local-runner": "9.0.5",
     "@wdio/mocha-framework": "8.36.1",
     "@wdio/spec-reporter": "8.36.1",
     "bootstrap": "5.3.3",
