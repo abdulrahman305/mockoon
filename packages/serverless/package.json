@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@mockoon/commons": "9.4.0",
-    "@mockoon/commons-server": "9.4.0",
+    "@mockoon/commons-server": "9.5.0",
     "serverless-http": "4.0.0",
     "tslib": "2.8.1"
   }
